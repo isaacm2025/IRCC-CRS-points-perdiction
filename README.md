@@ -26,6 +26,10 @@ An **interactive dashboard** that visualizes Canada Express Entry Invitation tre
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 
+2. Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate   # On Mac/Linux
 # Windows: venv\Scripts\activate
+
+3. Install dependencies:
+pip install -r requirements.txt
