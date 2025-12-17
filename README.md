@@ -34,7 +34,7 @@ source venv/bin/activate   # On Mac/Linux
 3. Install dependencies: pip install -r requirements.txt
 
 ---
-** Usage **
+**Usage**
 
 1. Make sure ircc_analyzer_data.csv is in the data/ folder.
 
@@ -47,7 +47,7 @@ Select a category to view CRS trends. Hover over points to see detailed informat
 
 ---
 
-## ** Technologies: **
+## **Technologies:**
 
 Python 3
 
@@ -59,7 +59,7 @@ Plotly
 
 ---
 
-## ** Program structure **
+## **Program structure**
 IRCC_Project/
 │
 ├─ dashboard.py
